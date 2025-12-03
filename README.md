@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Srivaxshana Murugavel</h1>
-<h3>Computer Engineering Student | University of Ruhuna | Sri Lanka 🇱🇰</h3>
+<h3>Computer Engineering Student | University of Ruhuna | Sri Lanka </h3>
 
 
 </div>
@@ -46,7 +46,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srivaxshana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivaxshana1604/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivaxshana1604)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivaxshana1604@gmail.com)
+
 
 ---
 
