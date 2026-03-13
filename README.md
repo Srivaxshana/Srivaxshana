@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <h1>Hi 👋, I'm Srivaxshana Murugavel</h1>
 <h3>Computer Engineering Student | University of Ruhuna | Sri Lanka </h3>
@@ -39,7 +39,67 @@
 </p>
 
 
+--- -->
+
+# Hi 👋 I'm Srivaxshana Murugavel
+
+💻 Computer Engineering Undergraduate at University of Ruhuna  
+🚀 Interested in Full-Stack Development, Backend Systems, and Software Engineering
+
 ---
 
+## 🛠 Tech Stack
+
+**Languages**
+C | C++ | C# | Java | JavaScript | Python | Dart
+
+**Frontend**
+React | HTML | CSS | Flutter
+
+**Backend**
+Spring Boot | Node.js | REST APIs
+
+**Database**
+MySQL | PostgreSQL | MongoDB | SQLite
+
+**DevOps**
+Docker | Jenkins | CI/CD
+
+---
+
+## 📌 Featured Projects
+
+🔹 Bookstore Management System  
+React | Spring Boot | MySQL | Docker | CI/CD
+
+🔹 Digital Examination Management System  
+React | Spring Boot | REST API
+
+🔹 AI Personal Finance Manager  
+React | Node.js | MongoDB
+
+🔹 Blood Bank Management System  
+C# | WPF | SQLite
 
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srivaxshana&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivaxshana&layout=compact)
+
+## 🚀 Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srivaxshana&repo=BookMate)](https://github.com/Srivaxshana/BookMate)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srivaxshana&repo=Examo-frontend)](https://github.com/Srivaxshana/Examo-frontend)
+
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srivaxshana)
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/srivaxshana-murugavel  
+Email: srivaxshana1604@gmail.com
