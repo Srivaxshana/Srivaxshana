@@ -101,5 +101,5 @@ C# | WPF | SQLite
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srivaxshana)
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/srivaxshana-murugavel  
+LinkedIn: [https://linkedin.com/in/srivaxshana-murugavel](https://lk.linkedin.com/in/srivaxshana-murugavel-512308357)  
 Email: srivaxshana1604@gmail.com
