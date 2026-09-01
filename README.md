@@ -80,10 +80,10 @@ Full-Stack Development · Backend Systems · Software Engineering
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srivaxshana&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivaxshana&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srivaxshana&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivaxshana&layout=compact&hide_border=true&cache_seconds=86400)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srivaxshana&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srivaxshana&hide_border=true&cache_seconds=86400)
 
 </div>
 
