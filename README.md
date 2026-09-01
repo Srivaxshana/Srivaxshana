@@ -1,105 +1,99 @@
-<!-- <div align="center">
+<div align="center">
 
-<h1>Hi 👋, I'm Srivaxshana Murugavel</h1>
-<h3>Computer Engineering Student | University of Ruhuna | Sri Lanka </h3>
+# Hi, I'm Srivaxshana Murugavel 👋
 
+### Computer Engineering Undergraduate @ University of Ruhuna, Sri Lanka
+Full-Stack Development · Backend Systems · Software Engineering
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/srivaxshana-murugavel-512308357)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivaxshana1604@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srivaxshana)
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 Computer Engineering 3rd year undergraduate at **Faculty of Engineering, University of Ruhuna**
-- 🌱 Currently learning **DevOps, Machine Learning & Full Stack Development**
-- 👨‍💻 All of my projects are available at https://github.com/Srivaxshana
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left"> 
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-</p>
-
-
---- -->
-
-# Hi 👋 I'm Srivaxshana Murugavel
-
-💻 Computer Engineering Undergraduate at University of Ruhuna  
-🚀 Interested in Full-Stack Development, Backend Systems, and Software Engineering
+- 🎓 3rd-year Computer Engineering student at the Faculty of Engineering, University of Ruhuna
+- 🌱 Currently deepening my skills in **DevOps, Machine Learning, and Full-Stack Development**
+- 🛠️ I enjoy building end-to-end applications — from database design to deployment
+- 📫 Reach me at **srivaxshana1604@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 **Languages**
-C | C++ | C# | Java | JavaScript | Python | Dart
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Frontend**
-React | HTML | CSS | Flutter
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Backend**
-Spring Boot | Node.js | REST APIs
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 **Database**
-MySQL | PostgreSQL | MongoDB | SQLite
 
-**DevOps**
-Docker | Jenkins | CI/CD
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-🔹 Bookstore Management System  
-React | Spring Boot | MySQL | Docker | CI/CD
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🔹 **[Bookstore Management System](https://github.com/Srivaxshana/BookMate)** | Full-stack bookstore platform with CI/CD pipeline | React · Spring Boot · MySQL · Docker |
+| 🔹 **[Digital Examination Management System](https://github.com/Srivaxshana/Examo-frontend)** | Web platform for managing digital exams | React · Spring Boot · REST API |
+| 🔹 **AI Personal Finance Manager** | Smart personal finance tracker with AI insights | React · Node.js · MongoDB |
+| 🔹 **Blood Bank Management System** | Desktop app for managing blood bank inventory | C# · WPF · SQLite |
 
-🔹 Digital Examination Management System  
-React | Spring Boot | REST API
+> More projects on my [GitHub](https://github.com/Srivaxshana?tab=repositories)
 
-🔹 AI Personal Finance Manager  
-React | Node.js | MongoDB
+---
 
-🔹 Blood Bank Management System  
-C# | WPF | SQLite
+### 📊 GitHub Stats
 
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srivaxshana&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivaxshana&layout=compact&hide_border=true)
 
-## 📊 GitHub Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srivaxshana&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srivaxshana&show_icons=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivaxshana&layout=compact)
+---
 
-## 🚀 Projects
+<div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srivaxshana&repo=BookMate)](https://github.com/Srivaxshana/BookMate)
+### 📫 Let's Connect
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srivaxshana&repo=Examo-frontend)](https://github.com/Srivaxshana/Examo-frontend)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/srivaxshana-murugavel-512308357)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivaxshana1604@gmail.com)
 
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srivaxshana)
-## 📫 Connect With Me
-
-LinkedIn: [https://linkedin.com/in/srivaxshana-murugavel](https://lk.linkedin.com/in/srivaxshana-murugavel-512308357)  
-Email: srivaxshana1604@gmail.com
+</div>
