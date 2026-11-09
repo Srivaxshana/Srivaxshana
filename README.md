@@ -15,7 +15,7 @@ Full-Stack Development · Backend Systems · Software Engineering
 
 ### 🚀 About Me
 
-- 🎓 3rd-year Computer Engineering student at the Faculty of Engineering, University of Ruhuna
+- 🎓 4th-year Computer Engineering student at the Faculty of Engineering, University of Ruhuna
 - 🌱 Currently deepening my skills in **DevOps, Machine Learning, and Full-Stack Development**
 - 🛠️ I enjoy building end-to-end applications — from database design to deployment
 - 📫 Reach me at **srivaxshana1604@gmail.com**
